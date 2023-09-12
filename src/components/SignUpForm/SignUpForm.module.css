@@ -5,6 +5,11 @@
 .User_Box:nth-child(4) {
   margin-bottom: 22px;
 }
+.Form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 .Form_wrapper {
   /* border: 1px solid brown; */
